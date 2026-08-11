@@ -1,0 +1,10 @@
+# 核心依赖（纯 Python，10 秒安装）
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+pdfplumber
+python-dotenv
+openai
+rank-bm25
+ddgs

@@ -1,0 +1,20 @@
+# 密钥文件，不提交到 Git
+.env
+# Python
+__pycache__/
+*.pyc
+venv/
+# 上传文件
+uploads/*
+!uploads/.gitkeep
+# 向量库
+chroma_db/
+vectors.db
+test_chroma/
+# IDE
+.vscode/
+.idea/
+# 测试文件
+test_*.txt
+test_*.json
+*.db
