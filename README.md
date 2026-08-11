@@ -2,6 +2,8 @@
 
 基于 **RAG + Agent** 的智能文档问答系统。上传文档后，AI 基于文档内容回答问题；知识库没有答案时，自动联网搜索。
 
+🔗 **在线演示**：[点此体验](https://knowledge-assistant-production-52cf.up.railway.app)
+
 > 🎯 **开发目标：AI 应用开发实习项目。** 自研 Agent 循环、自研向量库、混合检索，不依赖 LangChain/ChromaDB 等重型框架。
 
 ## ✨ 功能
